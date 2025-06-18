@@ -1,0 +1,4 @@
+Organization: tunehako
+Project name: sns-app
+Database password: udemyreactsns-app
+Region: Northeast Asia (Tokyo)
